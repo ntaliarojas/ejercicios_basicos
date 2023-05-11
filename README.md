@@ -1,2 +1,3 @@
 # ejercicios_basicos
-ejercicos basicos vistos e mi tecnologo de analisis y desarrollo de sistemas de informinformación 
+ejercicos basicos vistos en mi tecnologo de análisis y desarrollo de sistemas de informinformación 
+en la rama master podra visualizar más ejercicios
