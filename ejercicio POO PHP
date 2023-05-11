@@ -1,0 +1,17 @@
+Crea una clase llamada Cuenta que tendrá los siguientes atributos:
+- nombreTitular
+- saldo
+Métodos:
+● Un constructor vacío o genérico.
+● Los setters y getters para cada uno de los atributos. El atributo saldo no se puede modificar directamente, sólo a través de los métodos correspondientes.
+● consultar(): Muestra los datos de la cuenta. 
+● consignar(monto): Se ingresa un monto a la cuenta.
+● retirar(monto): Se retira un monto de la cuenta.
+● transferir(monto,Cuenta): transfiere el monto desde la cuenta que ejecuta el método a la cuenta enviada por parámetros.
+
+index.php:
+1. Crear los objetos correspondientes a dos cuentas $cuenta1 y $cuenta2 y realizar una consignación inicial de $5.000.000, mediante los setters.
+2. Retirar un monto de $500.000 de la $cuenta1 y consignar en la $cuenta2, mediante los métodos retirar y consignar.
+3. Transferir de la cuenta1 a la cuenta2 un monto de $800.000. Mediante el método correspondiente.
+4. Después de cada una de las operaciones llamar el método consultar(). Para verificar la transacción.
+5. Por tema de presentación se debe presentar en tablas html.
